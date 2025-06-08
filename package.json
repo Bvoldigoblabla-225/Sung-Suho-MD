@@ -1,8 +1,8 @@
 
 {
-  "name": "suho-md",
+  "name": "voldigo-md",
   "version": "0.0.5",
-  "description": "A WhatsApp Bot Created By Mr Sung",
+  "description": "A WhatsApp Bot Created By voldigo anos",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name lite",
