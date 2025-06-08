@@ -1,9 +1,9 @@
-# SungSu-ho-MD 
+# 𝗩𝗢𝗟𝗗𝗜𝗚𝗢-𝗠𝗗
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 Mr SungSu 🌝💚
+𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 𝘃𝗼𝗹𝗱𝗶𝗴𝗼 𝗮𝗻𝗼𝘀 🌝💚
 <p align="center">
-  <img src="https://files.catbox.moe/vcofni.jpg" />
+  <img src="http://goatbiin.onrender.com/pHL44bpvc.jpg" />
 </p>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
