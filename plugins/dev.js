@@ -24,17 +24,17 @@ lite({
 │
 │ 👨‍💻 *OWNER DETAILS:*
 │ ───────────────
-│ 🧠 *Name* : Mr Sung
-│ 🕯️ *Age* : +20
-│ ☎️ *Contact* : wa.me/27813374457
+│ 🧠 *Name* : voldigo anos
+│ 🕯️ *Age* : +15
+│ ☎️ *Contact* : wa.me/2250546841168
 │ ▶️ *YouTube* :
 │    https://youtube.com/@malvintech2
 │
-│ ⚡ Powered by *Mr Sung*
+│ ⚡ Powered by *Voldigo Anos*
 ╰───────────────`.trim();
 
         await conn.sendMessage(from, {
-            image: { url: config.MENU_IMAGE_URL || 'https://telegra.ph/file/3b66b4f8bd5c0556d4fb9.jpg' },
+            image: { url: config.MENU_IMAGE_URL || 'http://goatbiin.onrender.com/pHL44bpvc.jpg' },
             caption: text,
             contextInfo: {
                 mentionedJid: [m.sender],
